@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PHP</title>
+</head>
+<body>
+	<?php
+
+		echo "ula";
+
+
+
+	?>
+</body>
+</html>
